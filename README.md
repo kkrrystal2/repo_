@@ -2,10 +2,8 @@
 历史上的今天查询
 Today in history
 
-
 # 简介 
-选取的颜色，操练Python语言开发练习：使用flask
-
+选取的颜色:棕色，操练Python语言开发练习：使用flask
 
 ## 输入：
 用户输入日期（型态1）
