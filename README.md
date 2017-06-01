@@ -6,7 +6,7 @@ Today in history
 
 	
 # 简介 
-选取的颜色，操练Python语言开发练习：使用flask
+历史上的今天发生了什么事情。操练Python语言开发练习：使用flask
 
 
 
