@@ -25,4 +25,4 @@ Today in history
 * [github](https://api.github.com/)
 
 ## 作者成员：
-见[_team_.tsv](_team_/_team_.tsv)
+见[_team_.tsv](nfu_newmedia_python/pick_a_color_4web/_team_/_team_.tsv)
