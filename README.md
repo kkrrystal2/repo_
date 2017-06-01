@@ -4,12 +4,11 @@ Today in history
 
 
 
-		英文项目名称，必需取名合理，是目录名亦是.py後端程序（此行完成後应删）
+	
 # 简介 
 选取的颜色，操练Python语言开发练习：使用flask
 
 
-		中文简介项目内容（此行完成後应删）
 
 ## 输入：
 用户输入日期（型态1）
@@ -25,4 +24,4 @@ Today in history
 * [github](https://api.github.com/)
 
 ## 作者成员：
-见[_team_.tsv](_team_/_team_.tsv)
+见[_team_.tsv](https://github.com/WinnieGJX2/nfu_newmedia_python/blob/master/pick_a_color_4web/_team_/_team_.tsv)
